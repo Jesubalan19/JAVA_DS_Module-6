@@ -19,7 +19,7 @@ To write a Java program to count the number of digits in an integer using recurs
 /*
 Program to count the number of digits in an integer.
 Developed by: JESUBALAN A
-RegisterNumber: 212223240078
+RegisterNumber: 212223240060
 */
 import java.util.Scanner;
 
