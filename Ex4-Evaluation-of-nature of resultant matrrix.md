@@ -18,8 +18,8 @@ To write a Java function to evaluate whether Matrix A has all odd numbers and Ma
 ```java
 /*
 Program to find the nature of the resultant matrix.
-Developed by: LOGESH N A 
-RegisterNumber: 212223240078
+Developed by: JESUBALAN A
+RegisterNumber: 212223240060
 */
 import java.util.Scanner;
 
